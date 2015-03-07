@@ -2,7 +2,7 @@ SWT Choices Dialog
 ====
 
 This project implements a dialog for SWT in which users may choose from one of several options. It is inspired by the 
-DialogBox provided by the [Opal project](code.google.com/a/eclipselabs.org/p/opal/). In contrast to their implementation
+DialogBox provided by the [Opal project](https://code.google.com/a/eclipselabs.org/p/opal/). In contrast to their implementation
 the dialog provided by this project uses the native widgets of the respective platform and it supports keyboard interactions.
 
 Example
